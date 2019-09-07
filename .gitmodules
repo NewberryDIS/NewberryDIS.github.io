@@ -1,6 +1,0 @@
-[submodule "IOTMW"]
-	path = IOTMW
-	url = https://github.com/newberryDIS/IOTMW
-[submodule "mappingMidwest"]
-	path = mappingMidwest
-	url = https://github.com/newberryDIS/mappingMidwest
